@@ -19,8 +19,7 @@ Um conversor de moedas simples e interativo desenvolvido com HTML, CSS e JavaScr
 
 ## 🎥 Demonstração
 
-
-
+![Logo do Conversor](./assets/money-cash.gif)
 
 
 ## 🛠️ Tecnologias Utilizadas
